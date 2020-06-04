@@ -1,0 +1,9 @@
+.kalkulator{
+    width: 10%;
+    text-align: center;
+    margin-bottom: 1em;
+    color: gray;
+}
+.operator{
+    margin-left: 1em;
+}
